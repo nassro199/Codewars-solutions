@@ -1,4 +1,4 @@
-# Codewars solutions
+# Codewars Solutions
 
-a repo Where i post my solutions for [CodeWars](https://www.codewars.com/) i will try to add most of the challenges solutions as much as i can more solutions coming soon
+Welcome to my repository where I share my solutions for [CodeWars](https://www.codewars.com/) challenges. I will try to add solutions for as many challenges as possible, and I'll continue to update it with new solutions.
 
